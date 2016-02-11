@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: cb52282f1dfa5704a94b3b0de6850d00
+timeCreated: 1455050178
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: plataformas 1_0
+    21300002: plataformas 1_1
+    21300004: plataformas 1_2
+    21300006: plataformas 1_3
+    21300008: plataformas 1_4
+    21300010: plataformas 1_5
+    21300012: plataformas 1_6
+    21300014: plataformas 1_7
+    21300016: plataformas 1_8
+    21300018: plataformas 1_9
+    21300020: plataformas 1_10
+    21300022: plataformas 1_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: plataformas 1_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 446
+        width: 627
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 283.05713, y: -38.975616}
+        - {x: 283.05713, y: 39.024384}
+        - {x: 282.05713, y: 40.024384}
+        - {x: 276.05713, y: 47.024384}
+        - {x: 271.05713, y: 49.024384}
+        - {x: -267.94287, y: 49.024384}
+        - {x: -271.94287, y: 48.024384}
+        - {x: -277.94287, y: 43.024384}
+        - {x: -279.94287, y: 42.024384}
+        - {x: -282.94287, y: 35.024384}
+        - {x: -282.94287, y: -34.975616}
+        - {x: -280.94287, y: -39.975616}
+        - {x: -275.94287, y: -43.975616}
+        - {x: -272.94287, y: -46.975616}
+        - {x: -269.94287, y: -47.975616}
+        - {x: 270.05713, y: -47.975616}
+        - {x: 274.05713, y: -46.975616}
+        - {x: 280.05713, y: -42.975616}
+    - name: plataformas 1_1
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 446
+        width: 418
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 189.68066, y: 39.024384}
+        - {x: 188.68066, y: 40.024384}
+        - {x: 182.68066, y: 47.024384}
+        - {x: 177.68066, y: 49.024384}
+        - {x: -178.31934, y: 49.024384}
+        - {x: -188.31934, y: 38.024384}
+        - {x: -188.31934, y: -37.975616}
+        - {x: -180.31934, y: -47.975616}
+        - {x: 178.68066, y: -47.975616}
+        - {x: 181.68066, y: -46.975616}
+        - {x: 187.68066, y: -40.975616}
+        - {x: 189.68066, y: -37.975616}
+    - name: plataformas 1_2
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 446
+        width: 210
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92.9353, y: 49.024384}
+        - {x: -94.9353, y: 40.024384}
+        - {x: -94.9353, y: -46.975616}
+        - {x: -91.9353, y: -47.975616}
+        - {x: 94.0647, y: -47.975616}
+        - {x: 96.0647, y: -46.975616}
+        - {x: 96.0647, y: 49.024384}
+    - name: plataformas 1_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 313
+        width: 627
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 283.05713, y: 38.989075}
+        - {x: 280.05713, y: 41.989075}
+        - {x: 279.05713, y: 43.989075}
+        - {x: 276.05713, y: 46.989075}
+        - {x: 271.05713, y: 48.989075}
+        - {x: -267.94287, y: 48.989075}
+        - {x: -271.94287, y: 47.989075}
+        - {x: -281.94287, y: 37.989075}
+        - {x: -282.94287, y: 33.989075}
+        - {x: -282.94287, y: -35.010925}
+        - {x: -280.94287, y: -40.010925}
+        - {x: -274.94287, y: -45.010925}
+        - {x: -272.94287, y: -47.010925}
+        - {x: -269.94287, y: -48.010925}
+        - {x: 272.05713, y: -48.010925}
+        - {x: 274.05713, y: -47.010925}
+        - {x: 280.05713, y: -42.010925}
+        - {x: 283.05713, y: -39.010925}
+    - name: plataformas 1_4
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 313
+        width: 418
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 189.68066, y: -38.010925}
+        - {x: 189.68066, y: 38.989075}
+        - {x: 188.68066, y: 39.989075}
+        - {x: 182.68066, y: 46.989075}
+        - {x: 177.68066, y: 48.989075}
+        - {x: -175.31934, y: 48.989075}
+        - {x: -180.31934, y: 46.989075}
+        - {x: -188.31934, y: 36.989075}
+        - {x: -188.31934, y: -37.010925}
+        - {x: -181.31934, y: -46.010925}
+        - {x: -176.31934, y: -48.010925}
+        - {x: 178.68066, y: -48.010925}
+        - {x: 181.68066, y: -47.010925}
+        - {x: 187.68066, y: -41.010925}
+    - name: plataformas 1_5
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 313
+        width: 210
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.9353, y: 48.989075}
+        - {x: -94.9353, y: 41.989075}
+        - {x: -94.9353, y: -48.010925}
+        - {x: 96.0647, y: -48.010925}
+        - {x: 96.0647, y: 48.989075}
+    - name: plataformas 1_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 172
+        width: 627
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 283.05713, y: -38.766388}
+        - {x: 283.05713, y: 38.233612}
+        - {x: 279.05713, y: 42.233612}
+        - {x: 279.05713, y: 43.233612}
+        - {x: 276.05713, y: 47.233612}
+        - {x: 273.05713, y: 48.233612}
+        - {x: -272.94287, y: 48.233612}
+        - {x: -279.94287, y: 40.233612}
+        - {x: -279.94287, y: 39.233612}
+        - {x: -282.94287, y: 36.233612}
+        - {x: -282.94287, y: -34.766388}
+        - {x: -280.94287, y: -39.766388}
+        - {x: -272.94287, y: -46.766388}
+        - {x: -270.94287, y: -46.766388}
+        - {x: -269.94287, y: -47.766388}
+        - {x: 270.05713, y: -47.766388}
+        - {x: 275.05713, y: -46.766388}
+    - name: plataformas 1_7
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 172
+        width: 418
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 189.68066, y: 39.233612}
+        - {x: 182.68066, y: 47.233612}
+        - {x: 180.68066, y: 48.233612}
+        - {x: -177.31934, y: 48.233612}
+        - {x: -185.31934, y: 40.233612}
+        - {x: -188.31934, y: 35.233612}
+        - {x: -188.31934, y: -34.766388}
+        - {x: -186.31934, y: -39.766388}
+        - {x: -178.31934, y: -46.766388}
+        - {x: -176.31934, y: -47.766388}
+        - {x: 179.68066, y: -47.766388}
+        - {x: 181.68066, y: -46.766388}
+        - {x: 187.68066, y: -40.766388}
+        - {x: 189.68066, y: -37.766388}
+    - name: plataformas 1_8
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 172
+        width: 210
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94.9353, y: 48.233612}
+        - {x: -94.9353, y: -40.766388}
+        - {x: -86.9353, y: -47.766388}
+        - {x: 96.0647, y: -47.766388}
+        - {x: 96.0647, y: 48.233612}
+    - name: plataformas 1_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 26
+        width: 627
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 283.05713, y: 38.965546}
+        - {x: 280.05713, y: 41.965546}
+        - {x: 279.05713, y: 43.965546}
+        - {x: 276.05713, y: 46.965546}
+        - {x: 271.05713, y: 48.965546}
+        - {x: -267.94287, y: 48.965546}
+        - {x: -271.94287, y: 47.965546}
+        - {x: -281.94287, y: 37.965546}
+        - {x: -282.94287, y: 33.965546}
+        - {x: -282.94287, y: -35.034454}
+        - {x: -280.94287, y: -40.034454}
+        - {x: -274.94287, y: -45.034454}
+        - {x: -272.94287, y: -47.034454}
+        - {x: -269.94287, y: -48.034454}
+        - {x: 272.05713, y: -48.034454}
+        - {x: 274.05713, y: -47.034454}
+        - {x: 280.05713, y: -42.034454}
+        - {x: 283.05713, y: -39.034454}
+    - name: plataformas 1_10
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 26
+        width: 418
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 189.68066, y: -38.034454}
+        - {x: 189.68066, y: 38.965546}
+        - {x: 188.68066, y: 39.965546}
+        - {x: 182.68066, y: 46.965546}
+        - {x: 177.68066, y: 48.965546}
+        - {x: -175.31934, y: 48.965546}
+        - {x: -180.31934, y: 46.965546}
+        - {x: -188.31934, y: 36.965546}
+        - {x: -188.31934, y: -37.034454}
+        - {x: -181.31934, y: -46.034454}
+        - {x: -176.31934, y: -48.034454}
+        - {x: 178.68066, y: -48.034454}
+        - {x: 181.68066, y: -47.034454}
+        - {x: 187.68066, y: -41.034454}
+    - name: plataformas 1_11
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 26
+        width: 210
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94.9353, y: 48.965546}
+        - {x: -94.9353, y: -46.034454}
+        - {x: -93.9353, y: -48.034454}
+        - {x: 96.0647, y: -48.034454}
+        - {x: 96.0647, y: 48.965546}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
